@@ -67,27 +67,4 @@ I enjoy building solutions that combine programming, business intelligence, auto
 
 ---
 
-## 📊 Areas of Interest
-
-- Data Analytics
-- Automation
-- Artificial Intelligence
-- Business Intelligence
-- Backend Development
-- Full Stack Development
-- Dashboards & Reporting
-- Process Optimization
-
----
-
-## 🚧 Current Focus
-
-Currently improving my skills in:
-- Python Automation
-- Data Engineering
-- Power BI
-- SQL & PostgreSQL
-- APIs & Integrations
-- Software Architecture
-- Cloud & DevOps fundamentals
 
