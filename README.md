@@ -91,12 +91,3 @@ Currently improving my skills in:
 - Software Architecture
 - Cloud & DevOps fundamentals
 
----
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlronaldorl2&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlronaldorl2&show_icons=true&theme=tokyonight)
-
----
