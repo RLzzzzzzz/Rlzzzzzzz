@@ -14,7 +14,7 @@ My interests include **AI/ML, data engineering, software development, and intell
 
 ### Tech Stack
 
-**Languages:** Python · SQL · JavaScript         
+**Languages:** Python · SQL · JavaScript
 **Data & Analytics:** Power BI · Excel · Pandas · PostgreSQL
 **AI & Automation:** Rest/APIs · LLM · Machine Learning 
 **Development & Tools:** Git · GitHub · Linux · Docker 
