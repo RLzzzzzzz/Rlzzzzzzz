@@ -1,70 +1,35 @@
-# 🌎 Hello World, Welcome to My Profile 🚀
+# Hi, I'm Ronaldo Lippi
 
-## 👨🏻‍💻 About Me
+**Computer Science Student | Data Analytics & Automation | AI & Software Development**
 
-I'm Ronaldo Lippi, a Computer Science student passionate about technology, automation, data analysis, and software development.
+I'm a Computer Science student and Data Analytics & Automation Intern at **Enel**, working with Python, Power BI, market intelligence, and process automation.
 
-I enjoy building solutions that combine programming, business intelligence, automation, and problem-solving to improve processes and generate insights through data.
+My interests include **AI/ML, data engineering, software development, and intelligent automation**, with a focus on building practical, data-driven solutions.
 
-### 🚀 Professional Experience
+### Experience
 
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science.
+- **Enel** — Data Analytics & Automation Intern (2026–Present)
+- **Software Development & Data Analysis** — Internal systems, automation, and technical support (2025)
+- **Petrobras Ignição | PUC-Rio** — Technology & Professional Development Program (2024)
 
-- 🧠 In 2024, I participated in the Petrobras – Ignição internship program (PUC-Rio), where I developed technical and professional skills in:
-  - Python for AI
-  - HTML & CSS
-  - Git & GitHub
-  - Agile methodologies such as Scrum and Kanban
+### Tech Stack
 
-  In addition to the technical experience, the program also focused on professional development and preparation for the technology market.
+**Languages:** Python · SQL · JavaScript
 
-- 💼 In 2025, I worked at a law firm specialized in debt collection, acting as:
-  - Full Stack Developer
-  - N1 Support Analyst
-  - Data Analyst
+**Data & Analytics:** Power BI · Excel · Pandas · PostgreSQL
 
-  During this period, I worked on internal systems, automation processes, technical support, database analysis, and process optimization.
+**Development & Tools:** Git · GitHub · Linux · Docker 
 
-- ⚡ Currently, in 2026, I work at Enel as a Data Analytics & Automation Intern, participating in projects involving:
-  - Data analysis
-  - Process automation
-  - Dashboard development
-  - Market intelligence
-  - Reporting automation
-  - Python automation workflows
-  - Business intelligence solutions
+**AI & Automation:** Rest/APIs · LLM · Machine Learning 
 
----
+### Featured Projects
 
-## 📱 Socials
+- **Orquestra** — Local multi-agent AI orchestration platform with CLI integration and collaborative development workflows.
+- **Financial Intelligence Pipeline** — Automated processing and extraction of financial indicators from corporate reports using Python and LLMs.
+- **F1 Data & Prediction** — Motorsport data analysis and machine learning project using historical race and telemetry data.
 
-- 💼 LinkedIn: [Ronaldo Lippi](https://www.linkedin.com/in/ronaldo-lippi)
-- 📧 Email: rlronaldorl2@gmail.com
+### Connect
 
----
-
-## 💻 Technologies & Tools
-
-<div>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-
-</div>
-
----
-
+[Email](mailto:rlronaldorl2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-lippi)
 
