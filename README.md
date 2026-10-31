@@ -25,8 +25,6 @@ My interests include **AI/ML, data engineering, software development, and intell
 - **Financial Intelligence Pipeline** — Automated processing and extraction of financial indicators from corporate reports using Python and LLMs.
 - **F1 Data & Prediction** — Motorsport data analysis and machine learning project using historical race and telemetry data.
 
-### Connect
 
-[Email](mailto:rlronaldorl2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-lippi)
 
