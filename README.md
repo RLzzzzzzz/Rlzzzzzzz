@@ -6,7 +6,7 @@ I'm a Computer Science student and Data Analytics & Automation Intern at **Enel*
 
 My interests include **AI/ML, data engineering, software development, and intelligent automation**, with a focus on building practical, data-driven solutions.
 
-### Experience
+###  About Me
 
 - **Enel** — Data Analytics & Automation Intern (2026–Present)
 - **Software Development & Data Analysis** — Internal systems, automation, and technical support (2025)
@@ -14,13 +14,12 @@ My interests include **AI/ML, data engineering, software development, and intell
 
 ### Tech Stack
 
-**Languages:** Python · SQL · JavaScript
+**Languages:** Python · SQL · JavaScript                -- Data & Analytics:** Power BI · Excel · Pandas · PostgreSQL
+**AI & Automation:** Rest/APIs · LLM · Machine Learning -- Development & Tools:** Git · GitHub · Linux · Docker 
 
-**Data & Analytics:** Power BI · Excel · Pandas · PostgreSQL
 
-**Development & Tools:** Git · GitHub · Linux · Docker 
 
-**AI & Automation:** Rest/APIs · LLM · Machine Learning 
+
 
 ### Featured Projects
 
